@@ -1,4 +1,4 @@
-# Timestamp and Sound Alerts in Python3: Project Overview 
+# Timestamp and Sound Alerts in Python3
 
 * View Code: 
     * [Sound Alerts in Python (WINDOWS ONLY)](pythonsound_alerts.ipynb)
